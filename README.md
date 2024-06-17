@@ -34,7 +34,7 @@ This project analyzes and visualizes dengue case data in the Philippines from 20
 ## Results
 The analysis revealed distinct groupings of regions based on dengue cases and deaths. Regions with the highest cases and deaths were identified, indicating the need for extensive public health measures in these areas. The clustering results provide valuable insights for designing targeted interventions to combat dengue.
 
-![Main Interface].(images/regional_clusterin.png)
+![Results](images/regional_clustering.png)
 
 ## Conclusion
 This project demonstrates the application of data analysis and clustering techniques to understand the distribution and impact of dengue cases in the Philippines. The insights derived from the analysis can help public health officials allocate resources more effectively and design targeted interventions to reduce the incidence of dengue.
