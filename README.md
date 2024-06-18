@@ -4,8 +4,8 @@
 This project analyzes and visualizes dengue case data in the Philippines from 2016 to 2020. By applying K-Means clustering techniques, the project aims to identify patterns and trends in dengue cases and deaths across different regions. Understanding these patterns is crucial for preventing the spread of dengue and addressing the healthcare needs of the community effectively.
 
 ## Project Structure
-- `final.ipynb`: The main Jupyter notebook containing all steps of the analysis, including data loading, preprocessing, exploratory data analysis (EDA), clustering, and evaluation.
-- `data/ph_dengue_cases2016-2020.csv`: The dataset used for the analysis (ensure to include this file if sharing the dataset is permissible).
+- `Dengue-analysis-clustering`: The main Jupyter notebook containing all steps of the analysis, including data loading, preprocessing, exploratory data analysis (EDA), clustering, and evaluation.
+- `ph_dengue_cases2016-2020.csv`: The dataset used for the analysis (ensure to include this file if sharing the dataset is permissible).
 
 ## Steps and Analysis
 1. **Data Loading and Initial Inspection:**
